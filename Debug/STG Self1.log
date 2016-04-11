@@ -1,0 +1,4 @@
+﻿cl : コマンド ライン warning D9025: '/D_UNICODE' より '/U_UNICODE' が優先されます。
+cl : コマンド ライン warning D9025: '/DUNICODE' より '/UUNICODE' が優先されます。
+  Source.cpp
+  STG Self1.vcxproj -> P:\Microsoft VS code\C++\STG Self1\Debug\STG Self1.exe
